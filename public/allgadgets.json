@@ -1,0 +1,200 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Samsung Galaxy S24 Ulta",
+        "product_image": "https://i.postimg.cc/Vv2gTtD8/galaxy-s24-ultra-highlights-color-carousel-global-mo.jpg",
+        "category": "Mobile",
+        "price": 1290,
+        "description": "Bast Camera Phone,Can 10x Zoom ",
+        "Specification": {
+            "1": "256GB Storage",
+            "2": "12GB RAM",
+            "3": "Dynamic LTPO AMOLED 2X",
+            "4": "200 MP Camera"
+        },
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 2,
+        "product_title": "Apple iPhone 16 Pro Max",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-16-Pro-Max---16-Pro-Desert-Titanium-1929.jpg",
+        "category": "iphone",
+        "price": 1500,
+        "description": "Bast Phone Right Now,Can Run Pc Game ",
+        "Specification": {
+            "1": "512GB Storage",
+            "2": "Best Camera",
+            "3": "Glass front (Corning-made glass), glass back (Corning-made glass) ",
+            "4": "titanium frame (grade 5)"
+        },
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 6,
+        "product_title": "Google Pixel 9 Pro Xl",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-9-Pro-Obsidian-6557.jpg",
+        "category": "Mobile",
+        "price": 700,
+        "description": "Bast Camera Phone,And Ui ",
+        "Specification": {
+            "1": "512GB Storage",
+            "2": "12GB RAM",
+            "3": "5000MH Battery",
+            "4": "50MP Camera"
+        },
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 3,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://i.postimg.cc/4NbNMTFz/Mac-Book-Pro-14.jpg",
+        "category": "Macbook",
+        "price": 1999,
+        "description": "Powerful MacBook for professionals with M2 Pro chip.",
+        "Specification": {
+            "1": "M2 Pro Pro Processor",
+            "2": "16GB RAM",
+            "3": "512GB ROM",
+            "4": ""
+        },
+        "availability": true,
+        "rating": 4.7
+    },
+    
+    {
+        "product_id": 5,
+        "product_title": "Apple Watch Series 10",
+        "product_image": "https://i.postimg.cc/k46gh6k4/Apple-Watch-Series-7.jpg",
+        "category": "Smartwatch",
+        "price": 450,
+        "description": "Smartwatch with larger Amoled display.",
+        "Specification": {
+            "1": "GPS",
+            "2": "Heart Rate Monitor",
+            "3": "Water Resistant",
+            "4": "Always On Retina Display"
+        },
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "ASUS ROG STRIX G15",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Asus-Strix-G15-G5-13-RM-HQ017W-8629.jpg",
+        "category": "Laptop",
+        "price": 1950,
+        "description": "High-performance Gameing  laptop with Best Display .",
+        "Specification": {
+            "1": "Processor: AMD Ryzen R9 6900HX",
+            "2": "Ram: 16GB DDR5-4800 Mz",
+            "3": "Graphic: NVIDIA GeForce RTX 3060 6GB",
+            "4": "Display: 15.6 WQHD Display"
+        },
+        "availability": true,
+        "rating": 4.4
+    },
+ 
+    {
+        "product_id": 7,
+        "product_title": "SAMSUNG Galaxy Book3 ",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/SAMSUNG-Galaxy-Book3-Core-i7-13th-Gen-1355U-Intel-Iris-Xe-Graphics-15.6-Laptop-4620.jpg",
+        "category": "Laptop",
+        "price": 1100,
+        "description": "Lightweight and powerful Laptop",
+        "Specification": {
+            "1": "Core i7 13th Gen",
+            "2": "1355U Intel Iris Xe Graphics",
+            "3": "FHD 1920x1080 pixels AMOLED Display" ,
+            "4": "Ram: 16GB"
+        },
+        "availability": true,
+        "rating": 3.9
+    },
+    {
+        "product_id": 8,
+        "product_title": "Galaxy Watch 5 Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-Watch-Ultra-Titanium-Gray-1156.jpg",
+        "category": "Smartwatch",
+        "price": 260,
+        "description": "Smartwatch powered by Wear OS with health tracking.",
+        "Specification": {
+            "1": "Heart Rate Monitor",
+            "2": "Sleep Tracking",
+            "3": "GPS",
+            "4": "AMOLED Display"
+        },
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": 9,
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+        "category": "Macbook",
+        "price": 990,
+        "description": "Lightweight and powerful MacBook with M2 chip.",
+        "Specification": {
+            "1": "13.6-Inch LED Backlit Retina Display",
+            "2": "Backlit Magic Keyboard",
+            "3": "Retina Display",
+            "4": "Apple M2 Chip"
+        },
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 10,
+        "product_title": "Iqoo 12",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iQOO-12-5G-Alpha-5577.jpg",
+        "category": "Mobile",
+        "price": 790,
+        "description": "Bast Gameing Phone",
+        "Specification": {
+            "1": "8 gen 3 processor",
+            "2": "16GB RAM",
+            "3": "120W Charger",
+            "4": "bmw edition"
+        },
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": 11,
+        "product_title": " IPhone 15 Pro Max",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-15-Plus-(2)-(1)-6945.jpg",
+        "category": "iphone",
+        "price": 1090,
+        "description": "Value For Price ,Right Now",
+        "Specification": {
+            "1": "256GB Storage",
+            "2": "50MP Camera",
+            "3": "Type-C Port",
+            "4": "Ceramic Shield"
+        },
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 12,
+        "product_title": "Iqoo Z9s Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/iQOO-Z9s-Pro-5G-Luxe-Marble-9632.jpg",
+        "category": "Mobile",
+        "price": 320,
+        "description": "Bast Mid Budget Phone ",
+        "Specification": {
+            "1": "Sd 7 Gen 3 processor",
+            "2": "curved Display",
+            "3": "5500 Mh Battery",
+            "4": "50MP Camera"
+        },
+        "availability": true,
+        "rating": 4.2
+    }
+  
+    
+    
+]
+
